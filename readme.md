@@ -56,11 +56,11 @@ If you don't have Rust and Cargo installed, follow these steps:
 
 1. Clone or download the project files to your local machine:
     ```
-    git clone https://github.com/kernferm/guess-the-number-game.git
+    git clone https://github.com/kernferm/rust-guessing-game.git
     ```
 2. Navigate to the project directory:
     ```
-    cd guess-the-number-game
+    cd rust-guessing-game
     ```
 
 ## 🕹️ Usage
