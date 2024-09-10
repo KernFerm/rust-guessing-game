@@ -44,7 +44,7 @@ If you don't have Rust and Cargo installed, follow these steps:
 1. Go to the [Rust installation page](https://www.rust-lang.org/tools/install).
 2. Follow the instructions to download and run the installer for your operating system.
 3. After installation, you can verify that Rust and Cargo are installed by running the following commands in your terminal:
-    ```sh
+    ```
     rustc --version
     cargo --version
     ```
@@ -52,11 +52,11 @@ If you don't have Rust and Cargo installed, follow these steps:
 ## 🚀 Installation
 
 1. Clone or download the project files to your local machine:
-    ```sh
+    ```
     git clone https://github.com/kernferm/guess-the-number-game.git
     ```
 2. Navigate to the project directory:
-    ```sh
+    ```
     cd guess-the-number-game
     ```
 
@@ -66,11 +66,11 @@ To build and run the game, use the following commands:
 
 1. Open a terminal and navigate to the project directory.
 2. Build the project using Cargo:
-    ```sh
+    ```
     cargo build
     ```
 3. Run the game:
-    ```sh
+    ```
     cargo run
     ```
 
@@ -99,4 +99,27 @@ Contributions are welcome! If you'd like to contribute:
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+Copyright (c) 2024 Bubbles The Dev & FNBUBBLES420 ORG
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+and learn from the Software, subject to the following conditions:
+
+1. **Usage**: The Software may be used for personal, educational, or non-commercial purposes only.
+2. **Learning**: Users are permitted to study the code to learn from it.
+3. **Modifications**: No modifications or derivative works of the Software are allowed without prior written consent from the original developer.
+4. **Redistribution**: The Software may not be redistributed, sold, or sublicensed in any form without express permission from the original developer.
+5. **Commercial Use**: The Software may not be used for commercial purposes without explicit written approval from the original developer.
+
+### Conditions
+
+- Any use of the Software that violates the terms of this license will result in revocation of permission to use, study, or learn from the Software.
+- You are not permitted to remove or alter the copyright notice or this permission notice.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
