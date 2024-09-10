@@ -31,3 +31,9 @@ Cargo.lock
 
 # Ignore the .rs.bk files, which are backup files created by some editors
 *.rs.bk
+
+# Ignore the License.md file
+License.md
+
+# Ignore the banner folder and all .png images within it
+/banner/*.png
