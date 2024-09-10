@@ -18,6 +18,19 @@ This program was built and tested on a **64-bit Windows system** using the `panc
 - 📊 **Feedback** on whether the guess is too high, too low, or correct.
 - 🖥️ **User-friendly interface** built using the `pancurses` library.
 
+# 📁 Project Structure
+
+Here is the structure of the **Guess the Number Game** project:
+
+- 📂 **.github/ISSUE_TEMPLATE**: Contains templates for issue reporting.
+- 📂 **banner**: Includes project banners and images (e.g., game banners).
+- 📂 **src**: Source code of the project.
+- 📄 **.gitignore**: Defines which files and directories should be ignored by Git.
+- 📜 **CODE_OF_CONDUCT.md**: Code of conduct guidelines for contributors.
+- 🔒 **Cargo.lock**: Lock file for dependencies, automatically generated.
+- 📄 **Cargo.toml**: Cargo configuration file containing project dependencies and settings.
+- 📄 **readme.md**: The main README file with game instructions, setup, and information.
+
 ## 🛠️ Prerequisites
 
 To run this project, you need:
