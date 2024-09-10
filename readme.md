@@ -1,4 +1,4 @@
-![Guess The Number Game](https://github.com/KernFerm/rust-guessing-game/blob/main/banner/Guess_The_Number_Game-logo.png)
+<img src="https://github.com/KernFerm/rust-guessing-game/blob/main/banner/Guess_The_Number_Game-logo.png" alt="Guess The Number Game" width="400"/>
 
 # ❓❓ Guess the Number Game ❓❓ 
 
