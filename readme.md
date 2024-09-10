@@ -101,6 +101,7 @@ Contributions are welcome! If you'd like to contribute:
 6. Open a pull request.
 
 ## 📄 License
+### Custom Learn-and-Use License
 
 Copyright (c) 2024 Bubbles The Dev & FNBUBBLES420 ORG
 
