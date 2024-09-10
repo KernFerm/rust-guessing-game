@@ -2,7 +2,7 @@
 
 # ❓❓ Guess the Number Game ❓❓ 
 
-Welcome to the **Guess the Number** game! 🎉 This is a fun and simple command-line game where you try to guess a randomly generated number between 0 and 100. The game includes hints, limited attempts, and a user-friendly interface to keep you engaged! 😄
+Welcome to the Guess the Number game! 🎉 This is a fun and simple text-based game with an interactive interface where you try to guess a randomly generated number between 0 and 100. The game includes hints, limited attempts, and a user-friendly Text User Interface (TUI) to keep you engaged! 😄
 
 ## 📜 Description
 
