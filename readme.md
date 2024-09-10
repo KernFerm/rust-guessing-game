@@ -1,4 +1,6 @@
-<img src="https://github.com/KernFerm/rust-guessing-game/blob/main/banner/Guess_The_Number_Game-logo.png" alt="Guess The Number Game" width="400"/>
+<div align="center">
+  <img src="https://github.com/KernFerm/rust-guessing-game/blob/main/banner/Guess_The_Number_Game-logo.png" alt="Guess The Number Game" width="500"/>
+</div>
 
 # ❓❓ Guess the Number Game ❓❓ 
 
