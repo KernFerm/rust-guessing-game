@@ -1,0 +1,9 @@
+[package]
+name = "guess_the_number"
+version = "0.2.3"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+pancurses = "0.16"
+winrt-notification = "0.5.1"

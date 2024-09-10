@@ -1,0 +1,33 @@
+# Ignore the target directory, which is where compiled files are stored
+/target/
+
+# Ignore the Cargo.lock file, which contains exact versions of dependencies
+# This is recommended to be included in version control for libraries, but not for applications
+Cargo.lock
+
+# Ignore the .DS_Store file, which is created by macOS
+.DS_Store
+
+# Ignore the node_modules directory, which is used by JavaScript projects
+/node_modules/
+
+# Ignore the .idea directory, which is used by JetBrains IDEs
+.idea/
+
+# Ignore the .vscode directory, which is used by Visual Studio Code
+.vscode/
+
+# Ignore the .history directory, which is used by some VS Code extensions
+.history/
+
+# Ignore the .git directory, which is used by Git
+.git/
+
+# Ignore the .env file, which is used for environment variables
+.env
+
+# Ignore the .log files, which are used for logging
+*.log
+
+# Ignore the .rs.bk files, which are backup files created by some editors
+*.rs.bk
