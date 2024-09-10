@@ -31,6 +31,7 @@ Here is the structure of the **Guess the Number Game** project:
 - 📜 **CODE_OF_CONDUCT.md**: Code of conduct guidelines for contributors.
 - 🔒 **Cargo.lock**: Lock file for dependencies, automatically generated.
 - 📄 **Cargo.toml**: Cargo configuration file containing project dependencies and settings.
+- 📄 **LICENSE**: Custom license for the project detailing the conditions under which the software may be used, learned from, or modified.
 - 📄 **readme.md**: The main README file with game instructions, setup, and information.
 
 ## 🛠️ Prerequisites
