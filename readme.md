@@ -1,4 +1,6 @@
-# 🎯 Guess the Number Game
+![Guess The Number Game](https://github.com/KernFerm/rust-guessing-game/blob/main/banner/Guess_The_Number_Game-logo.png)
+
+# ❓❓ Guess the Number Game ❓❓ 
 
 Welcome to the **Guess the Number** game! 🎉 This is a fun and simple command-line game where you try to guess a randomly generated number between 0 and 100. The game includes hints, limited attempts, and a user-friendly interface to keep you engaged! 😄
 
