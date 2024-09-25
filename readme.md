@@ -6,6 +6,11 @@
 
 Welcome to the Guess the Number game! 🎉 This is a fun and simple text-based game with an interactive interface where you try to guess a randomly generated number between 0 and 100. The game includes hints, limited attempts, and a user-friendly Text User Interface (TUI) to keep you engaged! 😄
 
+## Support the Project ⭐
+
+If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+-----
+
 ## 📜 Description
 
 This project is a **Rust** implementation of the classic "Guess the Number" game. The program generates a random number between 0 and 100, and the player must guess it within 7 attempts. The game provides feedback on whether the guess is too high, too low, or correct. Players are also offered up to 3 hints to assist them during the game.
