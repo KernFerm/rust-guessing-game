@@ -6,6 +6,8 @@
 
 Welcome to the Guess the Number game! 🎉 This is a fun and simple text-based game with an interactive interface where you try to guess a randomly generated number between 0 and 100. The game includes hints, limited attempts, and a user-friendly Text User Interface (TUI) to keep you engaged! 😄
 
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+
 ## Support the Project ⭐
 
 If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
