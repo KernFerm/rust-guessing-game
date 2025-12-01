@@ -6,7 +6,10 @@
 
 Welcome to the Guess the Number game! 🎉 This is a fun and simple text-based game with an interactive interface where you try to guess a randomly generated number between 0 and 100. The game includes hints, limited attempts, and a user-friendly Text User Interface (TUI) to keep you engaged! 😄
 
-- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+# Join the discord if you need help 
+
+[https://fnbubbles420.org/discordinvite](https://fnbubbles420.org/discordinvite)
+
 
 ## Support the Project ⭐
 
@@ -134,3 +137,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
